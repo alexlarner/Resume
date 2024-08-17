@@ -1,4 +1,4 @@
-# Tech Resume
+# Technical Resume
 
 An IT professional with a passion for automation and innovation, harnessing 9 years of experience in automation, scripting, API development, PowerShell, Windows system administration, and software packaging. Building system integrations and tools to automate drudgery and restore meaningful work to the modern professional.
 
