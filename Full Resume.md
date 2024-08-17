@@ -7,6 +7,7 @@ An IT professional with a passion for automation and innovation, harnessing 9 ye
 ### Endpoint Platform Engineer, Dart Container (Contracted by TEKsystems)
 
 February 2023 – Current
+
 Mason, MI
 
 - Automated almost all the application packaging & lifecycle management work by writing a PowerShell module ([Larner.ConfigManager](https://github.com/alexlarner/Larner.ConfigManager)) and training the team on how to use it
@@ -18,6 +19,7 @@ Mason, MI
 ### Pulpit Committee Chairman, Grace Bible Church
 
 February 2022 - July 2024
+
 Lansing, MI
 
 - Led a committee of 10 people through hiring an interim pastor and a permanent full-time pastor
@@ -29,6 +31,7 @@ Lansing, MI
 ### IT Automation Engineer, Neogen Corporation
 
 May 2021 – February 2023
+
 Lansing, MI
 
 - Automated the IT onboarding & offboarding of all associates and all the user property updates (i.e. name change, job title/location/department change) by integrating our HR system with Active Directory. The automated system:
@@ -50,6 +53,7 @@ Lansing, MI
 ### Senior Systems Engineer, Jackson National Life Insurance
 
 March 2016 – May 2021
+
 Lansing, MI
 
 - Created a [PowerShell API for BMC Client Management](https://github.com/alexlarner/BMCClientManagement) (a Config Manager/SCCM alternative) for automating software packaging & installs
@@ -72,6 +76,7 @@ Lansing, MI
 ### Strategic Support Associate, Jackson National Life Insurance
 
 August 2015 — March 2016
+
 East Lansing, MI
 
 #### Curian Special Project
@@ -107,6 +112,7 @@ October 2013 — March 2016
 #### Executive Committee Member, Eaton County Republican Party
 
 November 2012 — November 2016
+
 Lansing, MI
 
 - Executive Committee Member elected by the Precinct Delegates of Eaton County
@@ -119,6 +125,7 @@ Lansing, MI
 ### Intern, Bible Baptist Church of Ballincollig, Ireland
 
 June 2013 — September 2013
+
 Ballincollig, Cork, Ireland
 
 - Renovated part of the church's website
@@ -130,6 +137,7 @@ Ballincollig, Cork, Ireland
 ### Intern, State Representative Deb Shaughnessy
 
 January 2011 — April 2011
+
 Anderson House Office Building, Lansing, MI
 
 - Wrote official letters to constituents
@@ -141,6 +149,7 @@ Anderson House Office Building, Lansing, MI
 ### Intern & Planning Committee Member, Information Network for Christian Homes (INCH)
 
 August 2008 — May 2011
+
 Lansing, MI
 
 - Maintained the vendor database for our annual convention
@@ -228,7 +237,15 @@ Lansing, MI
 
 ## Education History
 
-Leadership Institute - Communications Academy - 2016, 2017, 2018, 2019
-Homeschool - High School Diploma - 2012
-Leadership Institute - Leadership & Campaign Academy - 2010
-TeenPact Leadership School - Leadership School - 2008, 2009, 2010, 2011, 2012
+- Leadership Institute
+    - Communications Academy
+    - 2016, 2017, 2018, 2019
+- Homeschool
+    - High School Diploma
+    - 2012
+- Leadership Institute
+    - Leadership & Campaign Academy
+    - 2010
+- TeenPact Leadership School
+    - Leadership School
+    - 2008, 2009, 2010, 2011, 2012
