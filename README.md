@@ -61,8 +61,6 @@ Lansing, MI
 - Lead multiple major upgrades of critical third-party business applications, i.e. VMware Horizon Client, VMware Tools, Creative Suite conversion to Adobe Creative Cloud
 - Packaged hundreds of applications for automated deployment to our environment of over 15K machines
 
-OLDER JOB HISTORY AVAILABLE UPON REQUEST
-
 ## TECHNICAL SKILLS
 
 ### Expert
@@ -128,3 +126,7 @@ OLDER JOB HISTORY AVAILABLE UPON REQUEST
 - TeenPact Leadership School
     - Leadership School
     - 2008, 2009, 2010, 2011, 2012
+
+## References
+
+Available upon request
