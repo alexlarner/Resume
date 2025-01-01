@@ -68,6 +68,7 @@ Lansing, MI
 - Automation
 - Systems Integration
 - Development
+    - Especially SDK & API Development
 - Scripting
 - PowerShell
 - Rest API
