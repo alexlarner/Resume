@@ -165,8 +165,9 @@ Lansing, MI
 ### Expert
 
 - Automation
+- Systems Integration
+- Development
 - Scripting
-- System
 - PowerShell
 - Rest API
 - Markdown

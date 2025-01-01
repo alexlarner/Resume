@@ -6,7 +6,7 @@ An IT professional with a passion for automation and innovation, harnessing 9 ye
 
 ### Endpoint Platform Engineer, Dart Container (Contracted by TEKsystems)
 
-February 2023 – Current
+February 2023 – December 2024
 
 Mason, MI
 
@@ -66,8 +66,9 @@ Lansing, MI
 ### Expert
 
 - Automation
+- Systems Integration
+- Development
 - Scripting
-- System
 - PowerShell
 - Rest API
 - Markdown
