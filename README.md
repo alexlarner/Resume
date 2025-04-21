@@ -36,7 +36,7 @@ Lansing, MI
 - Reviewed, updated, rewrote, and documented all major infrastructure PowerShell scripts and modules
 - Secured time-sensitive international contract bonuses for the company by optimizing current code & data processing for transferring large files through China’s “Great Firewall”
 - Trained colleagues on PowerShell programming and scripting
-- Lead the way to the adoption of Confluence as the documentation standard for Neogen IT, while serving on the cross-functional Documentation steering committee
+- Led the way to the adoption of Confluence as the documentation standard for Neogen IT, while serving on the cross-functional Documentation steering committee
 
 ### Senior Systems Engineer, Jackson National Life Insurance
 
@@ -58,7 +58,7 @@ Lansing, MI
     - It emailed regular status updates of the VM build type counts & statuses to management
     - It had built over 3,000 VMs as of 2021
 - Created and maintained a documentation framework on Confluence for all packaged applications, which included management sign-off and internal troubleshooting documentation for Tier 1-3 IT teams
-- Lead multiple major upgrades of critical third-party business applications, i.e. VMware Horizon Client, VMware Tools, Creative Suite conversion to Adobe Creative Cloud
+- Led multiple major upgrades of critical third-party business applications, i.e. VMware Horizon Client, VMware Tools, Creative Suite conversion to Adobe Creative Cloud
 - Packaged hundreds of applications for automated deployment to our environment of over 15K machines
 
 ## TECHNICAL SKILLS
