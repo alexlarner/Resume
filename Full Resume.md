@@ -4,6 +4,37 @@ An IT professional with a passion for automation and innovation, harnessing 9 ye
 
 ## Employment History
 
+### Secretary, Chairman of the Board of Deacons, Closure Officer, Grace Bible Church
+
+January 2025 - Present
+
+Lansing, MI
+
+- Conducted comprehensive research and archival analysis to document the organization's administrative history spanning over two decades
+- Analyzed 11 years of financial records; developed detailed data visualizations illustrating financial trends, categorized by fund and expense type
+- Performed in-depth analysis of the transactions within and between the general and restricted funds
+- Established a robust system of administrative and financial transparency unprecedented in the organization's history
+- Compiled and presented reports to executive leadership and the broader congregation, covering over a decade of:
+    - Financial reconciliations
+    - Internal control weaknesses
+    - Inadequate documentation & policies
+    - Operational oversights
+    - Personnel gaps
+- Served as the primary point of contact for addressing questions and concerns from leadership and congregants—via written correspondence, phone calls, and in-person meetings at all hours
+- Co-led the design and implementation of a new administrative framework for the organization
+- Led the congregational meetings discussing:
+    - Presentation of audit findings and administrative reports
+    - Discussion of potential organizational closure
+    - Deliberation and consensus-building on the necessity of closure
+    - Transparent explanation of the closure process and timelines
+- Provided individualized support and guidance to executive leadership and congregants, prioritizing mental and emotional wellbeing in response to challenging organizational transitions
+- Acted as the subject matter expert on the organization's Constitution and Bylaws
+- Served as parliamentarian for official business meetings, ensuring procedural compliance and effective governance
+- Trained organizational leaders in proper minute-taking and meeting documentation practices
+- Identified and engaged legal and financial advisors to support the closure process; led strategic sessions with external counsel and executive leadership
+- Negotiated staff severance agreements, including for senior leadership (e.g., pastoral staff)
+- Directed negotiations with potential buyers for the organization's property, representing the organization's interests throughout the process.
+
 ### Endpoint Platform Engineer, Dart Container (Contracted by TEKsystems)
 
 February 2023 – December 2024
