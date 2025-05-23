@@ -47,7 +47,7 @@ Mason, MI
 - Transformed the team’s documentation from Word docs on a network share to a version-controlled Azure DevOps Wiki utilizing Markdown
 - Packaged applications for deployment through Config Manager (formerly SCCM) utilizing PatchMyPC and the PSAppDeployToolkit
 
-### Pulpit Committee Chairman, Grace Bible Church
+### Chairman of the Pastoral Search Committee, Grace Bible Church
 
 February 2022 - July 2024
 
