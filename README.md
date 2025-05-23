@@ -1,8 +1,39 @@
-# Technical Resume
+# Resume
 
 An IT professional with a passion for automation and innovation, harnessing 9 years of experience in automation, scripting, API development, PowerShell, Windows system administration, and software packaging. Building system integrations and tools to automate drudgery and restore meaningful work to the modern professional.
 
 ## Employment History
+
+### Secretary, Chairman of the Board of Deacons, Closure Officer, Grace Bible Church
+
+January 2025 - Present
+
+Lansing, MI
+
+- Conducted comprehensive research and archival analysis to document the organization's administrative history spanning over two decades
+- Analyzed 11 years of financial records; developed detailed data visualizations illustrating financial trends, categorized by fund and expense type
+- Performed in-depth analysis of the transactions within and between the general and restricted funds
+- Established a robust system of administrative and financial transparency unprecedented in the organization's history
+- Compiled and presented reports to executive leadership and the broader congregation, covering over a decade of:
+    - Financial reconciliations
+    - Internal control weaknesses
+    - Inadequate documentation & policies
+    - Operational oversights
+    - Personnel gaps
+- Served as the primary point of contact for addressing questions and concerns from leadership and congregants—via written correspondence, phone calls, and in-person meetings at all hours
+- Co-led the design and implementation of a new administrative framework for the organization
+- Led the congregational meetings discussing:
+    - Presentation of audit findings and administrative reports
+    - Discussion of potential organizational closure
+    - Deliberation and consensus-building on the necessity of closure
+    - Transparent explanation of the closure process and timelines
+- Provided individualized support and guidance to executive leadership and congregants, prioritizing mental and emotional wellbeing in response to challenging organizational transitions
+- Acted as the subject matter expert on the organization's Constitution and Bylaws
+- Served as parliamentarian for official business meetings, ensuring procedural compliance and effective governance
+- Trained organizational leaders in proper minute-taking and meeting documentation practices
+- Identified and engaged legal and financial advisors to support the closure process; led strategic sessions with external counsel and executive leadership
+- Negotiated staff severance agreements, including for senior leadership (e.g., pastoral staff)
+- Directed negotiations with potential buyers for the organization's property, representing the organization's interests throughout the process.
 
 ### Endpoint Platform Engineer, Dart Container (Contracted by TEKsystems)
 
@@ -13,8 +44,21 @@ Mason, MI
 - Automated almost all the application packaging & lifecycle management work by writing a PowerShell module ([Larner.ConfigManager](https://github.com/alexlarner/Larner.ConfigManager)) and training the team on how to use it
 - Created standards, process, and procedure documentation for application packaging
 - Overhauled linked server patching from a custom codebase of tens of thousands of lines of PowerShell, SQL, and C# code, and a SQL DB, into multiple Orchestration Groups in Config Manager and less than a hundred lines of code
-- Transformed the team’s documentation from Word docs on a network share to a version-controlled Azure DevOps Wiki utilizing Markdown
+- Transformed the team's documentation from Word docs on a network share to a version-controlled Azure DevOps Wiki utilizing Markdown
 - Packaged applications for deployment through Config Manager (formerly SCCM) utilizing PatchMyPC and the PSAppDeployToolkit
+
+### Pastoral Search Committee Chairman, Grace Bible Church
+
+February 2022 - December 2024
+
+Lansing, MI
+
+- Led a committee of 10 people through hiring an interim pastor and a permanent full-time pastor
+- Wrote doctrinal questionnaires to vet candidates
+- Created hiring process workflow
+- Led in-person interviews of candidates
+- Facilitated collaboration by setting up a Discord server for the committee and trained the members on its use
+- Administrated regular meetings in accordance with Robert's Rules of Order
 
 ### IT Automation Engineer, Neogen Corporation
 
@@ -25,16 +69,16 @@ Lansing, MI
 - Automated the IT onboarding & offboarding of all associates and all the user property updates (i.e. name change, job title/location/department change) by integrating our HR system with Active Directory. The automated system:
     - Created, updated, and disabled Active Directory & Entra accounts
     - Sanitized & standardized input data from HR to align with ISO standards (i.e. country & state/province name, etc.) and created tickets for HR to fix data that was too incorrect to be sanitized
-    - Generated and closed tickets to document the automated work that was done, including tasks for each part of the process so we’d have a “paper” trail for Internal Audit
+    - Generated and closed tickets to document the automated work that was done, including tasks for each part of the process so we'd have a “paper” trail for Internal Audit
         - It also created and assigned tasks to humans for special handling for exceptional cases (i.e. offboarding of an Admin/high-profile user)
     - Was powered by a PowerShell API ([Larner.FreshService](https://github.com/alexlarner/Larner.FreshService)) for our Help Desk system (FreshService), and accompanying scripts; tying together Workday, Active Directory, Azure Active Directory (now Entra ID), Graph REST API, and the FreshService REST API.
     - Included regular meetings with stakeholders (IT & HR management) to determine scope and later to discuss desired updates
-    - Was pivotal in the onboarding of thousands of associates over the course of a few days, after the company’s largest acquisition
+    - Was pivotal in the onboarding of thousands of associates over the course of a few days, after the company's largest acquisition
 - Worked with management to create automated reports on infrastructure health & security in advance of our internal audits. Then worked to create proactive automated remediations of the major issues found before the audit.
 - Implemented version control using Git & GitHub and PlantUML activity diagrams for all major IT infrastructure code
 - Wrote a [PowerShell Learning Path](https://github.com/alexlarner/PowerShell-Learning-Path) for IT associates of all PowerShell skill levels
 - Reviewed, updated, rewrote, and documented all major infrastructure PowerShell scripts and modules
-- Secured time-sensitive international contract bonuses for the company by optimizing current code & data processing for transferring large files through China’s “Great Firewall”
+- Secured time-sensitive international contract bonuses for the company by optimizing current code & data processing for transferring large files through China's “Great Firewall”
 - Trained colleagues on PowerShell programming and scripting
 - Led the way to the adoption of Confluence as the documentation standard for Neogen IT, while serving on the cross-functional Documentation steering committee
 
@@ -52,7 +96,7 @@ Lansing, MI
         - A “Factory” where “Base” build type VMs were created, built up to one of the other “trim” build types (Operations or Sales) as needed, and moved to the “Parking Lot” to refill as needed
         - A “Parking Lot” where VMs were ready for other IT teams to move off and assign to the new user
     - It consisted of 4 different scripts (Build Base VM, Convert Base VM into other builds, Refill Parking Lot from Factory, and Factory Status) that ran independently and could keep running if the other scripts were not functioning
-        - Those scripts utilized my [PowerShell API for BMC Client Management](https://github.com/alexlarner/BMCClientManagement) and VMware’s PowerShell API for vSphere (PowerCLI)
+        - Those scripts utilized my [PowerShell API for BMC Client Management](https://github.com/alexlarner/BMCClientManagement) and VMware's PowerShell API for vSphere (PowerCLI)
     - VMs were balanced between datacenters, hosts, and datastores
     - It wrote logs documenting the status of each machine through the process
     - It emailed regular status updates of the VM build type counts & statuses to management
